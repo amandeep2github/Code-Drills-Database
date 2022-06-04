@@ -1,0 +1,1 @@
+update booking set "user"='BB' where id=2;

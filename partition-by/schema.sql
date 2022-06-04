@@ -1,0 +1,1 @@
+create table score (player_id integer, player_name varchar, player_type varchar, score integer);

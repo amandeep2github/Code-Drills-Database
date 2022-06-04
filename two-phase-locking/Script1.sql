@@ -1,0 +1,1 @@
+select * from booking t1 where t1.id=2 for update;

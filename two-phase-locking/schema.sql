@@ -1,0 +1,1 @@
+create table booking(id integer, is_booked integer, "user" varchar);
